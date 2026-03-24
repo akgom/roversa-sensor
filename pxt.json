@@ -1,0 +1,11 @@
+{
+  "name": "roversa-sensor",
+  "description": "Ultrasonic sensor blocks",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true
+}
